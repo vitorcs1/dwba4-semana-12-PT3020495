@@ -1,0 +1,35 @@
+#titulo{
+text-align:center
+}
+
+#componentes{
+  border:3px solid #c1bebe;
+  text-align:center;
+  width:100%
+}
+
+#componentes td{
+  border:1px solid #c1bebe;
+  padding:8px
+}
+
+#componentes th{
+  border:1px solid #c1bebe;
+  padding:8px
+}
+
+#componentes{
+  background-color:#fffafa
+}
+
+#componentes tr:hover{
+  background-color:#c1bebe
+}
+
+#componentes th{
+  background-color:#4caf50;
+  color:#fff;
+  padding-bottom:12px;
+  padding-top:12px;
+  text-align:center
+}
